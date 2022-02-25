@@ -1,0 +1,12 @@
+.upload {
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    .preview{
+        width: 150px;
+        height: 150px;
+        object-fit: cover;
+        display: block;
+        margin-bottom: 16px;
+    }
+}
